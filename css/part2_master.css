@@ -1,0 +1,19 @@
+body{
+    background: url(http://scd.en.rfi.fr/sites/english.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/bird-2695678_1920.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: cornflowerblue;
+    border-color: blueviolet;
+    border-width: 3px;
+    border-style: dotted;
+}
+
+p{
+    color: chocolate;
+}
+
+span{
+    background-color: darkcyan;
+}
