@@ -1,0 +1,25 @@
+.firstDiv{
+    color: deepskyblue;
+}
+
+.secondDiv{
+    color: green;
+}
+
+#singledOut{
+    color: fuchsia;
+    text-decoration: line-through;
+}
+
+h3 + ul{
+    border: 4px dotted peachpuff;
+}
+
+li a{
+    color: orange;
+}
+
+li a[href="google.com"]{
+    color: royalblue;
+    border: 5px solid springgreen;
+}
